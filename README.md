@@ -1,2 +1,3 @@
-# opengl-examples
-A collection of beginner-friendly OpenGL examples.
+# OpenGL Examples
+
+> A collection of beginner-friendly OpenGL examples.
