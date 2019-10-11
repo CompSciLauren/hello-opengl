@@ -1,6 +1,6 @@
 # Hello OpenGL
 
-> A simple hello world program for OpenGL beginners.
+> A simple hello world program for OpenGL beginners. This is a simplified version of the [hello-opengl-framework](https://github.com/CompSciLauren/hello-opengl-framework "Hello OpenGL Framework") program.
 
 ## How to Run Program in Terminal
 
