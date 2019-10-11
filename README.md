@@ -4,7 +4,7 @@
 
 ## How to Run Program in Terminal
 
-1. Clone repo
+1. Clone or download the repo
 2. Inside project folder, run `make` command
 3. Type `./hello`
 
