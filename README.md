@@ -13,3 +13,8 @@
 You should see an image of a yellow triangle with a black background.
 
 <img width="300" src="https://github.com/compscilauren/hello-opengl/blob/master/demo.png">
+
+## Credit
+
+This example program is from the 
+[KU EECS 672 public class website](https://people.eecs.ku.edu/~jrmiller/Courses/OpenGL/HelloOpenGL/HelloOpenGLBasic/HelloOpenGLBasic.html "KU EECS 672 public class website").
